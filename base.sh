@@ -1,1 +1,1 @@
-sudo apt-get install jq ipcalc
+sudo apt-get install jq ipcalc network-manager
